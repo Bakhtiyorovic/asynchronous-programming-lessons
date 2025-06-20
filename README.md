@@ -1,2 +1,2 @@
 # asynchronous-programming-lessons
-lesson for asynchronous programming
+Here is some block of codes from my asynchronous programming lesson(learning)
